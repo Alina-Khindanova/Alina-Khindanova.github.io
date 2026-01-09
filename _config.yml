@@ -23,12 +23,12 @@ repository               : "Alina-Khindanova/Alina-Khindanova.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Alina_profile.png"
   name             : "Alina Khindanova"
   pronouns         : "she/her"  
-  bio              : "Master's Student in Business Research at the University of Texas at San Antonio"
+  bio              : "Business Research at the University of Texas at San Antonio"
   location         : "San Antonio, TX"
-  employer         : "University of Texas at San Antonio"
+  employer         : "UTSA"
   uri              : # URL
   email            : "alina.khindanova@my.utsa.edu" 
 
