@@ -90,7 +90,7 @@ publication_category:
     title: 'Work in Progress'    
   conferences:
     title: 'Conference Papers'
-
+bundle exec jekyll serve
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
@@ -222,6 +222,9 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   research:
+    output: true
+    permalink: /:collection/:path/
+  publications:
     output: true
     permalink: /:collection/:path/
 
