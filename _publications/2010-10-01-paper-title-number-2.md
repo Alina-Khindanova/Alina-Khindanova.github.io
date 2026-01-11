@@ -2,7 +2,7 @@
 title: "When Do Quality Claims Increase Sales? The Moderating Role of Objective Quality in the Beverage Market"
 collection: publications
 category: manuscripts
-#permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2010-10-01-paper-title-number-2
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 #date: 2010-10-01
 #venue: 'Journal 1'
